@@ -1,3 +1,4 @@
+#Yay Team Ian and Michael!
 # Week 1 - CIS162 - Git Functions Project - Ian's half
 
 def rect_area(x, y):
